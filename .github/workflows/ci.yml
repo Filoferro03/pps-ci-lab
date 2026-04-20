@@ -1,3 +1,4 @@
+name: Clone Repository
 on:
   push:
 jobs:
